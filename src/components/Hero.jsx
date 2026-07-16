@@ -234,7 +234,7 @@ const Hero = () => {
               }}
               className="mt-1 text-[30px] font-bold text-[#915EFF]"
             >
-              MERN Stack Developer
+              Frontend(MERN) Developer
             </motion.p>
 
             <p className={`${styles.heroSubText} text-white-100`}>
